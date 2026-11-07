@@ -1,8 +1,3 @@
----
-cursor:
-  subagentId: "bc-0d6a84fb-4e1d-527b-830b-2943c1eb5be9"
----
-
 # Trip site usability plan
 
 For Karl. Two jobs: a new member joining a trip, and a leader creating a trip. Checked in a browser on 5 Nov 2026.
